@@ -90,7 +90,7 @@ elif result[0][0]==2:
 else:
     prediction ='shilpa'
     print(prediction)
-### not giving correct output
+
 
 
 
